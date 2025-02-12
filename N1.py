@@ -1,4 +1,4 @@
 A = 5
 B = 2
-
-print(A + B)
+C = 99
+print(A + B + C)
